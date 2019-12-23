@@ -1,0 +1,15 @@
+C:\Users\P0142221\source\repos\QueAPI\QueAPI\bin\Release\netcoreapp2.1\QueAPI.deps.json
+C:\Users\P0142221\source\repos\QueAPI\QueAPI\bin\Release\netcoreapp2.1\QueAPI.runtimeconfig.json
+C:\Users\P0142221\source\repos\QueAPI\QueAPI\bin\Release\netcoreapp2.1\QueAPI.runtimeconfig.dev.json
+C:\Users\P0142221\source\repos\QueAPI\QueAPI\bin\Release\netcoreapp2.1\QueAPI.dll
+C:\Users\P0142221\source\repos\QueAPI\QueAPI\bin\Release\netcoreapp2.1\QueAPI.pdb
+C:\Users\P0142221\source\repos\QueAPI\QueAPI\obj\Release\netcoreapp2.1\QueAPI.csprojAssemblyReference.cache
+C:\Users\P0142221\source\repos\QueAPI\QueAPI\obj\Release\netcoreapp2.1\QueAPI.csproj.CoreCompileInputs.cache
+C:\Users\P0142221\source\repos\QueAPI\QueAPI\obj\Release\netcoreapp2.1\QueAPI.RazorAssemblyInfo.cache
+C:\Users\P0142221\source\repos\QueAPI\QueAPI\obj\Release\netcoreapp2.1\QueAPI.RazorAssemblyInfo.cs
+C:\Users\P0142221\source\repos\QueAPI\QueAPI\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\P0142221\source\repos\QueAPI\QueAPI\obj\Release\netcoreapp2.1\QueAPI.AssemblyInfoInputs.cache
+C:\Users\P0142221\source\repos\QueAPI\QueAPI\obj\Release\netcoreapp2.1\QueAPI.AssemblyInfo.cs
+C:\Users\P0142221\source\repos\QueAPI\QueAPI\obj\Release\netcoreapp2.1\QueAPI.RazorTargetAssemblyInfo.cache
+C:\Users\P0142221\source\repos\QueAPI\QueAPI\obj\Release\netcoreapp2.1\QueAPI.dll
+C:\Users\P0142221\source\repos\QueAPI\QueAPI\obj\Release\netcoreapp2.1\QueAPI.pdb
